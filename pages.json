@@ -1,0 +1,29 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "智能药盒",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/add/add",
+			"style": {
+				"navigationBarTitleText": "新增服药计划"
+			}
+		},
+		{
+			"path": "pages/report/report",
+			"style": {
+				"navigationBarTitleText": "服药记录报表"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "服药助手",
+		"navigationBarBackgroundColor": "#F8F9FB",
+		"backgroundColor": "#F8F9FB"
+	}
+}
